@@ -1,0 +1,15 @@
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\SetLoopedTracker.csproj.AssemblyReference.cache
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\SetLoopedTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\SetLoopedTracker.AssemblyInfoInputs.cache
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\SetLoopedTracker.AssemblyInfo.cs
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\SetLoopedTracker.csproj.CoreCompileInputs.cache
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\bin\Debug\net6.0\SetLoopedTracker.exe
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\bin\Debug\net6.0\SetLoopedTracker.deps.json
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\bin\Debug\net6.0\SetLoopedTracker.runtimeconfig.json
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\bin\Debug\net6.0\SetLoopedTracker.dll
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\bin\Debug\net6.0\SetLoopedTracker.pdb
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\SetLoopedTracker.dll
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\refint\SetLoopedTracker.dll
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\SetLoopedTracker.pdb
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\SetLoopedTracker.genruntimeconfig.cache
+C:\Users\spenc\Desktop\Uni Work\SetLoopedTracker\SetLoopedTracker\obj\Debug\net6.0\ref\SetLoopedTracker.dll
